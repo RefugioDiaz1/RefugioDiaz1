@@ -156,7 +156,7 @@ Experience working with enterprise development workflows using:
 ## 📫 Contact
 
 - GitHub: https://github.com/RefugioDiaz1
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/refugiodiaz)
 
 ---
 
