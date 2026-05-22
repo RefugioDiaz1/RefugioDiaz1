@@ -2,30 +2,44 @@
 
 ## 🚀 Full Stack Developer | .NET & React
 
-Backend-focused developer passionate about building scalable APIs, clean architectures and enterprise applications.
+Backend-focused developer passionate about building scalable APIs, clean architectures and enterprise applications using modern technologies and best development practices.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer specialized in:
-  - ASP.NET Core
-  - React / Next.js
-  - SQL Server
-  - Docker
+💻 Full Stack Developer specialized in:
 
-- 🏗 Focused on:
-  - Clean Architecture
-  - SOLID Principles
-  - REST APIs
-  - Backend Development
-  - Enterprise Applications
+- ASP.NET Core
+- React / Next.js
+- SQL Server
+- Docker
+- WPF Applications
 
-- 🔥 Currently learning:
-  - Microservices
-  - RabbitMQ
-  - Redis
-  - Advanced .NET Architecture
+🏗 Focused on:
+
+- Clean Architecture
+- SOLID Principles
+- REST APIs
+- Backend Development
+- Enterprise Applications
+- Scalable Systems
+
+🔥 Currently learning:
+
+- Microservices
+- RabbitMQ
+- Redis
+- Kubernetes
+- Advanced .NET Architecture
+
+🤝 Professional mindset:
+
+- Strong teamwork and collaboration skills
+- Passionate about continuous learning
+- Always willing to give my best from day one
+- Focused on clean, maintainable and scalable code
+- Adaptable to new technologies and business needs
 
 ---
 
@@ -39,6 +53,8 @@ Backend-focused developer passionate about building scalable APIs, clean archite
 - REST APIs
 - Clean Architecture
 - Repository Pattern
+- Dependency Injection
+- AutoMapper
 
 ### Frontend
 - React
@@ -46,39 +62,26 @@ Backend-focused developer passionate about building scalable APIs, clean archite
 - TypeScript
 - TailwindCSS
 
-### DevOps & Tools
+### Desktop
+- WPF (.NET)
+
+### DevOps & Cloud
 - Docker
+- Azure DevOps
+- CI/CD Pipelines
+- Azure Repos
+- Dashboards
 - Git & GitHub
+
+### Tools
 - Swagger
 - Postman
+- Visual Studio
+- VS Code
 
 ---
 
-## 📌 Featured Projects
-
-### 🚗 TotalPos Kiosk API
-Enterprise kiosk payment API with:
-- Clean Architecture
-- Offline SQLite synchronization
-- JWT Authentication
-- SOLID Principles
-- Payment abstraction
-
-### 📋 Uptask Fullstack App
-Task management platform built with:
-- React
-- Node.js
-- MongoDB
-
-### 🍔 Restaurant Kiosk Next.js
-Restaurant self-order kiosk built with:
-- Next.js
-- Prisma ORM
-- PostgreSQL
-
----
-
-## 🧠 Concepts & Practices
+## 📌 Experience & Practices
 
 - SOLID Principles
 - Dependency Injection
@@ -88,14 +91,64 @@ Restaurant self-order kiosk built with:
 - Strategy Pattern
 - Clean Code
 - Hexagonal Architecture
+- Offline synchronization with SQLite
+- Payment processing abstraction
+- Global exception handling
+- Enterprise API design
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 TotalPos Kiosk API
+Enterprise kiosk payment API built with ASP.NET Core featuring:
+
+- Clean Architecture
+- Offline SQLite synchronization
+- JWT Authentication
+- SOLID Principles
+- Payment abstraction
+- Entity Framework Core
+- SQL Server
+- Repository Pattern
+
+### 📋 Uptask Fullstack App
+Task management platform built with:
+
+- React
+- Node.js
+- MongoDB
+- Express
+
+### 🍔 Restaurant Kiosk Next.js
+Restaurant self-order kiosk built with:
+
+- Next.js
+- Prisma ORM
+- PostgreSQL
+
+---
+
+## ☁️ Azure DevOps Experience
+
+Experience working with enterprise development workflows using:
+
+- Azure Repositories
+- CI/CD Pipelines
+- Work Items
+- Dashboards
+- Branching strategies
+- Team collaboration environments
+
+> Some enterprise projects are private due to company confidentiality.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/
 - GitHub: https://github.com/RefugioDiaz1
+- LinkedIn: https://www.linkedin.com/
 
 ---
 
-⭐ Always learning and building scalable software solutions.
+⭐ Always learning, improving and building scalable software solutions.
