@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RefugioDiaz1&theme=tokyonight" />
-</p>
+</div>
 
 Backend-focused developer passionate about building scalable APIs, clean architectures and enterprise applications using modern technologies and best development practices.
 
