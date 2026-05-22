@@ -2,6 +2,10 @@
 
 ## 🚀 Full Stack Developer | .NET & React
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RefugioDiaz1&show_icons=true&theme=tokyonight)
+
 Backend-focused developer passionate about building scalable APIs, clean architectures and enterprise applications using modern technologies and best development practices.
 
 ---
