@@ -2,9 +2,19 @@
 
 ## 🚀 Full Stack Developer | .NET & React
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nextjs,ts,js,docker,postgres,mongodb,redis,azure,git,github,visualstudio,vscode" />
+</p>
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RefugioDiaz1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RefugioDiaz1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefugioDiaz1&layout=compact&theme=tokyonight" />
+</p>
 
 Backend-focused developer passionate about building scalable APIs, clean architectures and enterprise applications using modern technologies and best development practices.
 
