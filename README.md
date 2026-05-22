@@ -30,7 +30,6 @@ Backend-focused developer passionate about building scalable APIs, clean archite
 - Microservices
 - RabbitMQ
 - Redis
-- Kubernetes
 - Advanced .NET Architecture
 
 🤝 Professional mindset:
