@@ -63,6 +63,9 @@ Backend-focused developer passionate about building scalable APIs, clean archite
 - Dependency Injection
 - AutoMapper
 
+<img width="732" height="685" alt="Captura de pantalla 2026-05-13 103019" src="https://github.com/user-attachments/assets/f7afce6a-feec-45ea-8448-2a9b892e81e6" />
+
+
 ### 🎨 Frontend
 - React
 - Next.js
